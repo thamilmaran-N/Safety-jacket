@@ -99,6 +99,7 @@ The Raspberry Pi Pico W continuously reads data from all connected sensors. If a
 - Instant audible alert during unsafe conditions  
 - Live monitoring through Blynk dashboard  
 - Reliable detection of gas leaks, heat stress, noise hazards, and falls  
+<img width="459" height="368" alt="image" src="https://github.com/user-attachments/assets/1b8fa643-5780-4b58-ba96-79e7e5286888" />
 
 ---
 
