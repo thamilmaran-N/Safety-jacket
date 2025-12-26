@@ -80,7 +80,7 @@ The Smart Jacket for Industrial Workers is a wearable safety system designed to 
 ---
 
 ## Working Principle
-The Raspberry Pi Pico W continuously reads data from all connected sensors. If any parameter exceeds predefined safety thresholds, the buzzer is activated to alert the worker. At the same time, all sensor values are uploaded to the Blynk cloud platform via Wi-Fi for real-time remote monitoring.
+Once the jacket is worn by the user the battery provides power supply to the microcontroller then The Raspberry Pi Pico W continuously reads data from all connected sensors. If any parameter exceeds predefined safety thresholds, the buzzer is activated to alert the worker. At the same time, all sensor values are uploaded to the Blynk cloud platform via Wi-Fi for real-time remote monitoring.
 
 ---
 
